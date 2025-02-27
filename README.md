@@ -30,5 +30,5 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 
 ### 📊 Github Stats
 
-![Stats Overview]([![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-giani)](https://github.com/gabriel-giani/github-readme-stats))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-giani&show_icons=true&theme=radical)
 ![Most Used Languages](https://raw.githubusercontent.com/gabriel-giani/github-stats-transparent/output/generated/languages.svg)
