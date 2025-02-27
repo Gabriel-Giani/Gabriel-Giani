@@ -27,3 +27,8 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="assets/javascript.svg" alt="JavaScript" height="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git-scm.svg" alt="Git" height="42px"/> </a>
 <a href="https://spring.io/" target="_blank"> <img align="left" src="assets/Spring_Boot.svg" alt="Spring Boot" height="40px"/> </a>
+
+### 📊 Github Stats
+
+![Stats Overview](https://raw.githubusercontent.com/gabriel-giani/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/gabriel-giani/github-stats-transparent/output/generated/languages.svg)
