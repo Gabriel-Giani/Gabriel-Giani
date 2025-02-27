@@ -15,6 +15,6 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 
 
 #### 🔨 Languages and Tools:
-![nodejs]([./pictures/image.png](https://nodejs.org/))
-
+[<img src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/node.svg">](https://nodejs.org/)
+https://nodejs.org/
 https://nodejs.org/
