@@ -28,6 +28,8 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git-scm.svg" alt="Git" height="42px"/> </a>
 <a href="https://spring.io/" target="_blank"> <img align="left" src="assets/Spring_Boot.svg" alt="Spring Boot" height="40px"/> </a>
 
+<br>
+
 ### 📊 Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-giani&show_icons=true&theme=dark)
