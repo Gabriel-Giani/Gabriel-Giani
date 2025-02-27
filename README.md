@@ -15,7 +15,7 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 
 
 #### 🔨 Languages and Tools:
-[<img src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/node.svg">](https://nodejs.org/)
+[![Node.js](https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/node.svg){ width=50px height=50px }](https://nodejs.org/)
 [<img src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/react.svg">](https://react.dev/)
 [<img src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/python.svg">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/cmershon2/cmershon2/main/assets/docker-svgrepo-com.svg">](https://www.docker.com/)
