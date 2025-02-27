@@ -1,5 +1,5 @@
 ## Hi, I'm Gabe 👋 ##
-## Software Engineer. I love building things and helping people.
+### Software Engineer. I love building things and helping people.
 <!--
 **Gabriel-Giani/Gabriel-Giani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
