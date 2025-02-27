@@ -1,5 +1,5 @@
 ## Hi, I'm Gabe 👋 ##
-### Software Engineer. I love building things and helping people.
+#### Software Engineer. I love building things and helping people.
 <!--
 **Gabriel-Giani/Gabriel-Giani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,3 +13,8 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 - 💬 Ask me about anything, I love helping people
 - 📫 How to reach me: [Linkedin]([Link](https://www.linkedin.com/in/gabriel-giani-971b43163/))
 
+
+#### 🔨 Languages and Tools:
+![nodejs]([./pictures/image.png](https://nodejs.org/))
+
+https://nodejs.org/
