@@ -13,7 +13,7 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 - 🧊 I’m currently working on LetPhilSocial
 - 🌱 I’m currently learning Typescript
 - 💬 Ask me about anything, I love helping people
-- 📫 How to reach me: [Linkedin](<[Link](https://www.linkedin.com/in/gabriel-giani-971b43163/)>)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/gabriel-giani-971b43163)
 
 #### 🔨 Languages and Tools:
 
@@ -27,6 +27,8 @@ I'm a senior at Florida Atlantic University studying Computer Science. With expe
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="assets/javascript.svg" alt="JavaScript" height="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="assets/git-scm.svg" alt="Git" height="42px"/> </a>
 <a href="https://spring.io/" target="_blank"> <img align="left" src="assets/Spring_Boot.svg" alt="Spring Boot" height="40px"/> </a>
+
+<br>
 
 <br>
 
