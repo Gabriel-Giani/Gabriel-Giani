@@ -33,4 +33,3 @@ I'm a software engineer at American Express. With expertise in API integrations 
 ### 📊 Github Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gabriel-giani&show_icons=true&theme=dark&count_private=true)
-![Most Used Languages](https://raw.githubusercontent.com/Gabriel-Giani/github-stats-transparent/output/generated/languages.svg)
